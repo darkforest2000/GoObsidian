@@ -1,0 +1,135 @@
+{
+  "main": {
+    "id": "0b39c90899c86c00",
+    "type": "split",
+    "children": [
+      {
+        "id": "df795cf1915ccb18",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "135c97bf3d46a91c",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "717d924bebda3415",
+    "type": "split",
+    "children": [
+      {
+        "id": "b3ee10aa273dd7d0",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "62938f9c8d9a9eff",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "279ebbfb186735d8",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "335d296bbed81e54",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "a158ca8af2d2d780",
+    "type": "split",
+    "children": [
+      {
+        "id": "e1b6df6b50649d9a",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "606161e7a013bd20",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "8d055fc647458cb5",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "a7948366e57e3676",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "5046fcee292c5b01",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "135c97bf3d46a91c",
+  "lastOpenFiles": [
+    "Основы GO.md"
+  ]
+}

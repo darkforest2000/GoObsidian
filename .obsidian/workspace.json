@@ -1,0 +1,172 @@
+{
+  "main": {
+    "id": "6a4e2cdc7ec16b96",
+    "type": "split",
+    "children": [
+      {
+        "id": "28276d6683f73c1a",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "e5d46f5d5fcb8604",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "graph",
+              "state": {},
+              "pinned": true
+            }
+          },
+          {
+            "id": "0fa18999fd7b59e2",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Дата и время.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "8c15ce88c6301dd0",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Часовой пояс.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "3f65080599b150db",
+    "type": "split",
+    "children": [
+      {
+        "id": "e611c4a7015b185a",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "bed32e8272ca31fe",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "1f8d0f61548fbd5b",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "1666b266f92e6799",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200,
+    "collapsed": true
+  },
+  "right": {
+    "id": "bc5059496cdb3d0a",
+    "type": "split",
+    "children": [
+      {
+        "id": "a655e79cd25df4e5",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "efbe10ea3d5eaaf8",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "10ca67334db37957",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "f4c0ac4df81ade8c",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "322d26d96765bbfb",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "e5d46f5d5fcb8604",
+  "lastOpenFiles": [
+    "Часовой пояс.md",
+    "Дата и время.md",
+    "stdout.md",
+    "img/Pasted image 20221109214446.png",
+    "GO/Основы GO.md",
+    "godoc.md",
+    "Строитель строк.md",
+    "Таймер Горутины.md",
+    "модуль Strings.md",
+    "Горутины.md"
+  ]
+}

@@ -605,3 +605,11 @@ for _, temp := range &weekTemp {
    temp = 0 
 }
 ```
+# Fprint
+
+Cемейство принтов для записи в файл c io.Writer
+
+```go
+fmt.Fprintln(), fmt.Fprint(), fmt.Fprintf()
+```
+
