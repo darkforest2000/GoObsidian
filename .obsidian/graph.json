@@ -3,9 +3,9 @@
   "search": "",
   "showTags": false,
   "showAttachments": false,
-  "hideUnresolved": false,
+  "hideUnresolved": true,
   "showOrphans": true,
-  "collapse-color-groups": false,
+  "collapse-color-groups": true,
   "colorGroups": [
     {
       "query": "Структ",
@@ -53,6 +53,6 @@
   "repelStrength": 6.14583333333333,
   "linkStrength": 0,
   "linkDistance": 250,
-  "scale": 0.6316046762907601,
-  "close": true
+  "scale": 0.6316046762907613,
+  "close": false
 }

@@ -18,12 +18,36 @@
             }
           },
           {
-            "id": "0fa18999fd7b59e2",
+            "id": "94f162976f1cda74",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Дата и время.md",
+                "file": "Стандартная библиотека/os.File.Read.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "3db3b788c0ab9a31",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Дата и время/Юникс-время.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "4374320c24bd4aa7",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Дата и время/Таймеры и тикеры.md",
                 "mode": "source",
                 "source": false
               }
@@ -35,13 +59,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Часовой пояс.md",
+                "file": "Дата и время/Арифметика.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "d9f3ced0257d68d3",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Дата и время/Парсинг.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -87,13 +124,11 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 294.5
   },
   "right": {
     "id": "bc5059496cdb3d0a",
@@ -109,6 +144,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Стандартная библиотека/os.File.Read.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -125,6 +161,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Стандартная библиотека/os.File.Read.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -146,7 +183,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Стандартная библиотека/os.File.Read.md"
+              }
             }
           }
         ]
@@ -156,17 +195,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "e5d46f5d5fcb8604",
+  "active": "bed32e8272ca31fe",
   "lastOpenFiles": [
-    "Часовой пояс.md",
-    "Дата и время.md",
-    "stdout.md",
-    "img/Pasted image 20221109214446.png",
-    "GO/Основы GO.md",
-    "godoc.md",
-    "Строитель строк.md",
-    "Таймер Горутины.md",
-    "модуль Strings.md",
-    "Горутины.md"
+    "Стандартная библиотека/Чтение и запись файлов.md",
+    "Дата и время/Таймеры и тикеры.md",
+    "Дата и время/Юникс-время.md",
+    "Дата и время/Парсинг.md",
+    "Дата и время/Дата и время.md",
+    "Дата и время/Арифметика.md",
+    "Дата и время/Часовой пояс.md",
+    "Горутины/N обработчиков.md",
+    "Прочее/html template.md",
+    "Прочее/Юникод.md"
   ]
 }
