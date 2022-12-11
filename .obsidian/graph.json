@@ -3,40 +3,103 @@
   "search": "",
   "showTags": false,
   "showAttachments": false,
-  "hideUnresolved": false,
+  "hideUnresolved": true,
   "showOrphans": true,
-  "collapse-color-groups": false,
+  "collapse-color-groups": true,
   "colorGroups": [
     {
-      "query": "Структ",
+      "query": "path:ООП",
       "color": {
         "a": 1,
         "rgb": 16711680
       }
     },
     {
-      "query": "Композ",
+      "query": "path:\"Внутри Go\"",
       "color": {
         "a": 1,
-        "rgb": 16711680
+        "rgb": 16777215
       }
     },
     {
-      "query": "Основы",
+      "query": "path:GO",
       "color": {
         "a": 1,
         "rgb": 11657298
       }
     },
     {
-      "query": "Интерф",
+      "query": "path:Горутины",
       "color": {
         "a": 1,
-        "rgb": 12669664
+        "rgb": 5431473
       }
     },
     {
-      "query": "Горутины",
+      "query": "path:\"JSON, XML, CSV\"",
+      "color": {
+        "a": 1,
+        "rgb": 5419488
+      }
+    },
+    {
+      "query": "path:Прочее",
+      "color": {
+        "a": 1,
+        "rgb": 5431473
+      }
+    },
+    {
+      "query": "path:\"Дата и время\"",
+      "color": {
+        "a": 1,
+        "rgb": 5395168
+      }
+    },
+    {
+      "query": "path:\"Стандартная библиотека\"",
+      "color": {
+        "a": 1,
+        "rgb": 11621088
+      }
+    },
+    {
+      "query": "path:Каналы",
+      "color": {
+        "a": 1,
+        "rgb": 14701233
+      }
+    },
+    {
+      "query": "path:Тестирование",
+      "color": {
+        "a": 1,
+        "rgb": 14701138
+      }
+    },
+    {
+      "query": "path:Ошибки",
+      "color": {
+        "a": 1,
+        "rgb": 14725458
+      }
+    },
+    {
+      "query": "path:\"Пакеты и модули\"",
+      "color": {
+        "a": 1,
+        "rgb": 8016938
+      }
+    },
+    {
+      "query": "path:Функции",
+      "color": {
+        "a": 1,
+        "rgb": 5431378
+      }
+    },
+    {
+      "query": "path:Контекст",
       "color": {
         "a": 1,
         "rgb": 5431473
@@ -49,10 +112,10 @@
   "nodeSizeMultiplier": 1.65677083333333,
   "lineSizeMultiplier": 2.0140625,
   "collapse-forces": true,
-  "centerStrength": 0.359375,
+  "centerStrength": 0.338541666666667,
   "repelStrength": 6.14583333333333,
-  "linkStrength": 0,
+  "linkStrength": 0.130208333333333,
   "linkDistance": 250,
-  "scale": 0.6316046762907601,
-  "close": true
+  "scale": 0.6316046762907639,
+  "close": false
 }

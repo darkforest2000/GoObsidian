@@ -16,30 +16,6 @@
               "state": {},
               "pinned": true
             }
-          },
-          {
-            "id": "0fa18999fd7b59e2",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Дата и время.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "8c15ce88c6301dd0",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Часовой пояс.md",
-                "mode": "source",
-                "source": false
-              }
-            }
           }
         ]
       }
@@ -70,7 +46,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "defer",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -87,13 +63,11 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 294.5
   },
   "right": {
     "id": "bc5059496cdb3d0a",
@@ -149,24 +123,25 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
     "width": 300,
     "collapsed": true
   },
-  "active": "e5d46f5d5fcb8604",
+  "active": "322d26d96765bbfb",
   "lastOpenFiles": [
-    "Часовой пояс.md",
-    "Дата и время.md",
-    "stdout.md",
-    "img/Pasted image 20221109214446.png",
-    "GO/Основы GO.md",
-    "godoc.md",
-    "Строитель строк.md",
-    "Таймер Горутины.md",
-    "модуль Strings.md",
-    "Горутины.md"
+    "JSON, XML, CSV/XML.md",
+    "Внутри Go/Внутри Go.md",
+    "Внутри Go/Создание кода WebAssembly.md",
+    "Внутри Go/Узловые деревья.md",
+    "Внутри Go/Go-ассемблер.md",
+    "Внутри Go/go env.md",
+    "Внутри Go/Среда Go.md",
+    "Внутри Go/strace и dtrace.md",
+    "GO/Оператор отложенного вызова.md",
+    "Функции/Использование defer для журналирования.md"
   ]
 }
