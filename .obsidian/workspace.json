@@ -16,69 +16,8 @@
               "state": {},
               "pinned": true
             }
-          },
-          {
-            "id": "94f162976f1cda74",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Стандартная библиотека/os.File.Read.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "3db3b788c0ab9a31",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Дата и время/Юникс-время.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "4374320c24bd4aa7",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Дата и время/Таймеры и тикеры.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "8c15ce88c6301dd0",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Дата и время/Арифметика.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "d9f3ced0257d68d3",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Дата и время/Парсинг.md",
-                "mode": "source",
-                "source": false
-              }
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -107,7 +46,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "defer",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -144,7 +83,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Стандартная библиотека/os.File.Read.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -161,7 +99,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Стандартная библиотека/os.File.Read.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -183,29 +120,28 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Стандартная библиотека/os.File.Read.md"
-              }
+              "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
     "width": 300,
     "collapsed": true
   },
-  "active": "bed32e8272ca31fe",
+  "active": "322d26d96765bbfb",
   "lastOpenFiles": [
-    "Стандартная библиотека/Чтение и запись файлов.md",
-    "Дата и время/Таймеры и тикеры.md",
-    "Дата и время/Юникс-время.md",
-    "Дата и время/Парсинг.md",
-    "Дата и время/Дата и время.md",
-    "Дата и время/Арифметика.md",
-    "Дата и время/Часовой пояс.md",
-    "Горутины/N обработчиков.md",
-    "Прочее/html template.md",
-    "Прочее/Юникод.md"
+    "JSON, XML, CSV/XML.md",
+    "Внутри Go/Внутри Go.md",
+    "Внутри Go/Создание кода WebAssembly.md",
+    "Внутри Go/Узловые деревья.md",
+    "Внутри Go/Go-ассемблер.md",
+    "Внутри Go/go env.md",
+    "Внутри Go/Среда Go.md",
+    "Внутри Go/strace и dtrace.md",
+    "GO/Оператор отложенного вызова.md",
+    "Функции/Использование defer для журналирования.md"
   ]
 }

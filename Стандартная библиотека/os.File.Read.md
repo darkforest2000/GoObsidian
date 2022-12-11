@@ -39,7 +39,7 @@ for {
 
 Результат работы программы:
 
-```http
+```go
 5 <nil>
 read 5 bytes: "go is"
 5 <nil>
